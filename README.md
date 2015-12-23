@@ -1,6 +1,6 @@
 # wkhtmltopdf for Centos7 0.12.2.1 qtwebkit
 
-[All the binaries for Centos6 from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
+[All the binaries for Centos7 from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
 
 ## Install
 
