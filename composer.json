@@ -1,5 +1,5 @@
 {
-    "name": "profburial/wkhtmltopdf-binaries-centos7",
+    "name": "bluora/wkhtmltopdf-binaries-centos7",
     "description": "All the wkhtmltopdf binaries for Centos6.",
     "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
     "license": "LGPL Version 3",
