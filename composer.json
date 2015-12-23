@@ -1,0 +1,23 @@
+{
+    "name": "profburial/wkhtmltopdf-binaries-centos7",
+    "description": "All the wkhtmltopdf binaries for Centos6.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://github.com/bluora/wkhtmltopdf-binaries-centos7",
+    "authors": [
+        {
+            "name": "Terry Harmon",
+            "email": "terry@polymorphdev.com"
+        },
+        {
+            "name": "Rocco Howard",
+            "email": "rocco@bluora.com.au"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltoimage-amd64-centos7",
+        "bin/wkhtmltopdf-amd64-centos7",
+    ],
+    "require": {}
+}
