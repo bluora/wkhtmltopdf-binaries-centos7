@@ -22,12 +22,12 @@
 
 3. All the binaries are symlinked to the following paths:
 
-```
-vendor/bin/wkhtmltoimage-amd64-centos7
+    ```
+    vendor/bin/wkhtmltoimage-amd64-centos7
+    
+    vendor/bin/wkhtmltopdf-amd64-centos7
+    ```
 
-vendor/bin/wkhtmltopdf-amd64-centos7
-```
-
-4. `yum install xorg-x11-fonts-75dpi`
+4. Install `yum install xorg-x11-fonts-75dpi`
 
 Enjoy the bin files!
