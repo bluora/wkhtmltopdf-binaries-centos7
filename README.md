@@ -28,4 +28,6 @@ vendor/bin/wkhtmltoimage-amd64-centos7
 vendor/bin/wkhtmltopdf-amd64-centos7
 ```
 
+4. `yum install xorg-x11-fonts-75dpi`
+
 Enjoy the bin files!
