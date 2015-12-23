@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profburial/wkhtmltopdf-binaries-centos7": "0.12.2.1"
+            "bluora/wkhtmltopdf-binaries-centos7": "0.12.2.1"
         }
     }
     ```
